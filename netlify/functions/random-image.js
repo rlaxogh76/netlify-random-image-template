@@ -15,6 +15,7 @@ exports.handler = async function () {
     "https://peppy-melba-47ed98.netlify.app/images/comfyblobdrive.gif",
     "https://peppy-melba-47ed98.netlify.app/images/Party_blod.gif",
     "https://peppy-melba-47ed98.netlify.app/images/VoteBlob.gif",
+    "https://peppy-melba-47ed98.netlify.app/images/happycat.gif"
   ];
 
   const random = images[Math.floor(Math.random() * images.length)];
