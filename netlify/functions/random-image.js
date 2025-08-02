@@ -17,6 +17,20 @@ exports.handler = async function () {
     // "https://peppy-melba-47ed98.netlify.app/images/VoteBlob.gif",
     // "https://peppy-melba-47ed98.netlify.app/images/happycat.gif",
     "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/react-spin.gif",
+    "https://verdant-jalebi-0fc0fb.netlify.app/images/ParrotDance.gif",
   ];
 
   const random = images[Math.floor(Math.random() * images.length)];
